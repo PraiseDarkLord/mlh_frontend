@@ -14,7 +14,7 @@ function AiText() {
             />
             <textarea
                 className='qnaText'
-                placeholder=' Write your questions here'
+                placeholder=' Write your questions here (Click Enter to submit)'
                 name="aitext"
                 id="aitext"
             />
