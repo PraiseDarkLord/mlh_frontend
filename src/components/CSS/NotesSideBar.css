@@ -1,0 +1,24 @@
+.sideBar-warapper {
+    height: calc(100vh - 60px);
+    width: 200px;
+    /* background-color: #d4d3d3; */
+    /* border-right: 1px solid black; */
+}
+
+.new-note {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newNote {
+    margin: 0 auto;
+    height: 40px;
+    width: 150px;
+    background-color: black;
+    color: #f6f6f6;
+    font-size: large;
+    border-radius: 10px;
+}

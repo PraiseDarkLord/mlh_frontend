@@ -1,5 +1,5 @@
 import React from 'react'
-import "./CSS/Home.css"
+import "../CSS/Home.css"
 import heroImage from "../Assets/Logo.svg"
 import FeaturesCard from './FeaturesCard'
 

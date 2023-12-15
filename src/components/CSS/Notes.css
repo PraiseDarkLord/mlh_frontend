@@ -1,0 +1,19 @@
+.notes-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.left {
+    width: 300px;
+}
+
+.right {
+    gap: 20px;
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    min-height: 80vh;
+}

@@ -1,5 +1,5 @@
 import React from 'react'
-import "./CSS/FeaturesCard.css"
+import "../CSS/FeaturesCard.css"
 // import Notetaking from "../Assets/notetaking.svg"
 
 
