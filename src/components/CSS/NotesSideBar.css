@@ -1,14 +1,15 @@
 .sideBar-warapper {
     height: calc(100vh - 60px);
     width: 200px;
-    /* background-color: #d4d3d3; */
-    /* border-right: 1px solid black; */
 }
 
-.new-note {
-    height: 70px;
+.note-btns {
+    margin-top: 20px;
+    margin-bottom: 20px;
     width: 100%;
+    gap: 5px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }

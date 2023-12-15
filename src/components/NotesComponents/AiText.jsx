@@ -12,6 +12,12 @@ function AiText() {
                 name="aitext"
                 id="aitext"
             />
+            <textarea
+                className='qnaText'
+                placeholder=' Write your questions here'
+                name="aitext"
+                id="aitext"
+            />
         </div>
     )
 }
