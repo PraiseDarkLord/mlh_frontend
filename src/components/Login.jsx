@@ -1,8 +1,11 @@
 import React from 'react'
+import Tiptap from "./TipTap/Tiptap";
 
 function Login() {
     return (
-        <div>Login</div>
+        <div>
+            <Tiptap/>
+        </div>
     )
 }
 

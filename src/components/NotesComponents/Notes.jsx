@@ -5,6 +5,7 @@ import AiText from './AiText'
 
 import "../CSS/Notes.css"
 
+
 function Notes() {
   return (
     <div className="notes-section">
@@ -13,6 +14,7 @@ function Notes() {
         <NotesSideBar />
       </div>
       <div className="right">
+
         <Input />
         <AiText />
       </div>

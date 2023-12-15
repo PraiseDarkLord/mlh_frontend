@@ -1,6 +1,6 @@
 .aitxt {
-    height: 70vh;
-    width: 700px;
+    height: 75vh;
+    width: 300px;
     min-width: 300px;
     margin-right: 20px;
 }
@@ -15,7 +15,7 @@
 .aiText {
     /* margin: 5px; */
     background-color: #f6f6f6;
-    height: calc(100% - 90px);
+    height: calc(100% - 51px);
     width: 100%;
     border: 1px solid black;
     border-radius: 5px;
@@ -24,7 +24,7 @@
 
 .qnaText {
     background-color: #f6f6f6;
-    height: 82px;
+    height: 90px;
     width: 100%;
     border: 1px solid black;
     border-radius: 5px;

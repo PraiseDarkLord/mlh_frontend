@@ -1,6 +1,7 @@
 .sideBar-warapper {
     height: calc(100vh - 60px);
     width: 200px;
+    margin-left: 10%;
 }
 
 .note-btns {
